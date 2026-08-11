@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced Python, MySQL, Responsive Web Design,**
 
-- 💬 Ask me about **C, C++, Python, HTML, CSS, JavaScript**
+- 💬 Ask me about **C, C++, Java, Python, HTML, CSS, JavaScript**
 
 - 📫 Reach me at **kanishkawani52@gmail.com**
 
